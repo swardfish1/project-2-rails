@@ -16,7 +16,7 @@ User Stories
   As a cook, I want to be able to view stock to ensure we actually have something I need
 
 
-![./img/rid.png](Ruby recipe book)
+![Ruby recipe book](./img/rid.png)
 
 General Structure
   User can Read stock when not signed in
